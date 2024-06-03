@@ -20,8 +20,6 @@ for more information.
 == LICENSE
 
 As far as I'm (= Shlomi Fish) is concerned the intermediate and final .svg
-files can be used under the CC-by-nc-sa version 4.0, or at your option,
-any latee version (see
-https://www.shlomifish.org/meta/copyrights/#cc_by_sa_nc_intr ). Crediting me as
-the originator of the works will be appreciated, but not absolutely
-necessary.
+files can be used under the Apache License, either version 2.0, or at your
+option, any later version (see https://en.wikipedia.org/wiki/Apache_License ).
+Crediting me as the originator of the works will be appreciated.
