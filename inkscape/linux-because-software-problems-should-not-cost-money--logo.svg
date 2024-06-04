@@ -85,14 +85,6 @@
          sodipodi:nodetypes="cc" />
     </pattern>
     <linearGradient
-       id="swatch2"
-       inkscape:swatch="solid">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop2" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3"
        id="linearGradient4"
