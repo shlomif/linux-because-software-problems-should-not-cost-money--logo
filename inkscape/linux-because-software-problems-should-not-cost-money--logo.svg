@@ -27,6 +27,12 @@
      id="defs2">
     <pattern
        inkscape:collect="always"
+       xlink:href="#pattern6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern5"
+       patternTransform="matrix(0.8684877,0,0,0.05549608,14.262576,135.3268)" />
+    <pattern
+       inkscape:collect="always"
        xlink:href="#pattern1"
        preserveAspectRatio="xMidYMid"
        id="pattern6"
@@ -225,6 +231,17 @@
            height="34.979183"
            x="1042.8156"
            y="-9.8494673" /></flowRegion><flowPara
-         id="flowPara5"></flowPara></flowRoot>
+         id="flowPara5" /></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5209px;line-height:20px;font-family:Denmark;-inkscape-font-specification:'Denmark, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:url(#pattern5);fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="13.607151"
+       y="148.12071"
+       id="text5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5209px;font-family:Denmark;-inkscape-font-specification:'Denmark, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#pattern5);fill-opacity:1;stroke-width:0.264583px"
+         x="13.607151"
+         y="148.12071"
+         id="tspan6">Should Not Cost Money</tspan></text>
   </g>
 </svg>
