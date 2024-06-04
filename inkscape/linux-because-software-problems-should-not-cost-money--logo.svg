@@ -20,8 +20,25 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <!--
+          patternTransform="matrix(0.1,0,0,0.1,793.05327,116.16566)"
+    -->
   <defs
      id="defs2">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1"
+       preserveAspectRatio="xMidYMid"
+       id="pattern6"
+       patternTransform="matrix(0.8684877,0,0,0.05549608,14.262576,114.68917)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1"
+       preserveAspectRatio="xMidYMid"
+       id="pattern4"
+       patternTransform="translate(0, 0)" />
     <linearGradient
        id="linearGradient3"
        inkscape:collect="always">
@@ -43,12 +60,12 @@
        xlink:href="#pattern6-7"
        preserveAspectRatio="xMidYMid"
        id="pattern2"
-       patternTransform="translate(190,350)" />
+       patternTransform="translate(0,0)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="29"
        height="20"
-       patternTransform="translate(190,350)"
+       patternTransform="translate(0,0)"
        preserveAspectRatio="xMidYMid"
        style="fill:#000000"
        id="pattern6-7"
@@ -78,6 +95,51 @@
        x2="244.36044"
        y2="67.324554"
        gradientUnits="userSpaceOnUse" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="302.3622"
+       height="251.612"
+       patternTransform="translate(0, 0)"
+       preserveAspectRatio="xMidYMid"
+       id="pattern1"
+       inkscape:label="pattern1">
+      <g
+         id="g1"
+         transform="matrix(3.7795276,0,0,3.7795276,-778.92893,-122.80408)">
+        <rect
+           style="color:#000000;overflow:visible;fill:#000000;stroke:#000000;stroke-width:0"
+           id="rect2"
+           width="80"
+           height="66.572342"
+           x="206.09161"
+           y="32.491913"
+           ry="0.52028114" />
+        <rect
+           style="color:#000000;overflow:visible;fill:url(#linearGradient4);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+           id="rect1"
+           width="80"
+           height="18.376524"
+           x="206.09161"
+           y="48.467857"
+           ry="0.52028114" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="302.36221"
+       height="251.612"
+       patternTransform="translate(0, 0)"
+       preserveAspectRatio="xMidYMid"
+       id="pattern3"
+       inkscape:label="pattern3">
+      <rect
+         style="fill:url(#pattern4);stroke:none"
+         width="302.36221"
+         height="251.612"
+         x="0"
+         y="0"
+         id="rect3" />
+    </pattern>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -86,9 +148,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.92604167"
-     inkscape:cx="629.02137"
-     inkscape:cy="396.85039"
+     inkscape:zoom="0.84185606"
+     inkscape:cx="561.25984"
+     inkscape:cy="632.53093"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -135,35 +197,34 @@
          y="68.499603">Linux</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5209px;line-height:20px;font-family:Denmark;-inkscape-font-specification:'Denmark, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5209px;line-height:20px;font-family:Denmark;-inkscape-font-specification:'Denmark, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:url(#pattern6);fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="13.607151"
        y="127.48348"
        id="text1"><tspan
          sodipodi:role="line"
-         id="tspan1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5209px;font-family:Denmark;-inkscape-font-specification:'Denmark, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5209px;font-family:Denmark;-inkscape-font-specification:'Denmark, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#pattern6);fill-opacity:1;stroke-width:0.264583px"
          x="13.607151"
-         y="127.48348">Because Software Problems</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5209px;font-family:Denmark;-inkscape-font-specification:'Denmark, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583px"
-         x="13.607151"
-         y="147.48349"
-         id="tspan2">Should Not Cost Money</tspan></text>
+         y="127.48348"
+         id="tspan2">Because Software Problems</tspan></text>
     <rect
-       style="color:#000000;overflow:visible;fill:#000000;stroke:#000000;stroke-width:0"
-       id="rect2"
-       width="80"
-       height="66.572342"
-       x="206.09161"
-       y="32.491913"
-       ry="0.52028114" />
-    <rect
-       style="color:#000000;overflow:visible;fill:url(#linearGradient4);stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;fill-opacity:1"
-       id="rect1"
-       width="80"
-       height="18.376524"
-       x="206.09161"
-       y="48.467857"
-       ry="0.52028114" />
+       style="stroke:none;fill:url(#pattern3)"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7370749,1.7564163)"
+       width="302.36221"
+       height="251.612"
+       x="793.05327"
+       y="116.16566"
+       id="rect4" />
+    <flowRoot
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7370749,1.7564163)"
+       style="fill:none;stroke:black;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;font-family:Impact;font-size:29.51539993px;-inkscape-font-specification:'Impact, Normal';writing-mode:lr;line-height:200px;letter-spacing:0px;word-spacing:0px"
+       id="flowRoot1"><flowRegion
+         id="flowRegion1"><rect
+           id="rect5"
+           width="3.2089469"
+           height="34.979183"
+           x="1042.8156"
+           y="-9.8494673" /></flowRegion><flowPara
+         id="flowPara5"></flowPara></flowRoot>
   </g>
 </svg>
