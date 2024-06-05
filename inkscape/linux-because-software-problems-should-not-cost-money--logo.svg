@@ -49,15 +49,15 @@
        id="linearGradient3"
        inkscape:collect="always">
       <stop
-         style="stop-color:#00319c;stop-opacity:1;"
+         style="stop-color:#6666FF;stop-opacity:1;"
          offset="0"
          id="stop3" />
       <stop
-         style="stop-color:#4252de;stop-opacity:1;"
+         style="stop-color:#0000D0;stop-opacity:1;"
          offset="0.5"
          id="stop5" />
       <stop
-         style="stop-color:#00319c;stop-opacity:1;"
+         style="stop-color:#6666FF;stop-opacity:1;"
          offset="1"
          id="stop4" />
     </linearGradient>
