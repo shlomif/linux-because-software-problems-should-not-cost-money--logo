@@ -19,6 +19,10 @@ $(WEBP): $(PNG)
 clean:
 	rm -f $(PNG) $(JPEG) $(WEBP)
 
+# sky is: https://www.shlomifish.org/open-source/projects/sky/
+upload: all
+	sky up $(SVG)
+	sky up -x $(WEBP)
 
 # vim:ft=make
 #
