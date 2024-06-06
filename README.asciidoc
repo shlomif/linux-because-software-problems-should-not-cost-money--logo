@@ -1,12 +1,11 @@
 == ABOUT
 
-image:++./back-to-my-homepage-logo/back-to-my-homepage--scripted-final--with-gradient-applied--cropped.svg++[Back to my Homepage logo]
+image:++./inkscape/linux-because-software-problems-should-not-cost-money--logo.svg[Linux logo]
 
 This is the new and https://inkscape.org/[Inkscape]-based version of
 Shlomi Fish’s web graphics logo reading “Linux - Because Software Problems Should Not Cost Money”.
 
-Its homepage is now at
-http://www.shlomifish.org/art/back-to-my-homepage-2nd-ver/ .
+Its homepage is now at *TODO* .
 
 The previous version, which was done using CorelDRAW, can be found on
 https://www.shlomifish.org/art/linux_banner/[its page on Shlomi Fish’s site],
