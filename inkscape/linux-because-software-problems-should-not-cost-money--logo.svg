@@ -188,25 +188,25 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(3.7370749,-1.7564163)">
+    <rect
+       style="color:#000000;overflow:visible;fill:#e7f700;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+       id="rect4"
+       width="297"
+       height="210"
+       x="0"
+       y="0"
+       />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.8177px;line-height:459.542px;font-family:'Long Island';-inkscape-font-specification:'Long Island, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;stroke:#000000;stroke-width:0.470956px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="13.113064"
-       y="68.499603"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.8177px;line-height:459.542px;font-family:'Long Island';-inkscape-font-specification:'Long Island, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ff0000;stroke:#000000;stroke-width:0.470956px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="13.113058"
+       y="68.499626"
        id="text10"><tspan
          sodipodi:role="line"
          id="tspan10"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.8177px;line-height:459.542px;font-family:'Long Island';-inkscape-font-specification:'Long Island, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.470956px"
-         x="13.113064"
-         y="68.499603">Linux</tspan></text>
-    <rect
-       style="stroke:none;fill:url(#pattern3)"
-       transform="matrix(0.26458333,0,0,0.26458333,-3.7370749,1.7564163)"
-       width="302.36221"
-       height="251.612"
-       x="793.05327"
-       y="116.16566"
-       id="rect4" />
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.8177px;line-height:459.542px;font-family:'Long Island';-inkscape-font-specification:'Long Island, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke-width:0.470956px"
+         x="13.113058"
+         y="68.499626">Linux</tspan></text>
     <flowRoot
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-3.7370749,1.7564163)"
