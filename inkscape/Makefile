@@ -8,7 +8,7 @@ WIDTH = 1200
 all: $(PNG) $(JPEG) $(WEBP)
 
 $(PNG): $(SVG)
-	inkscape --export-png=$@ --export-width=$(WIDTH) --export-background='#ffffff' --export-background-opacity=1.0 $<
+	inkscape --export-filename=$@ --export-type=png --export-width=$(WIDTH) --export-background='#e7f700' --export-background-opacity=1.0 $<
 
 $(JPEG): $(PNG)
 	gm convert $< $@
