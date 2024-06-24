@@ -1,0 +1,1 @@
+Hi all! I sometimes have more luck than brains - https://www.shlomifish.org/Files/files/images/linux-svg-slogan-in-gwenview-i-want-that-effect.png - how can i get the effect of the "Linux" text in the (non-faithful) gwenview display using the Long-Island font? SVG: https://www.shlomifish.org/Files/files/images/linux-because-software-problems-should-not-cost-money--logo.svg
